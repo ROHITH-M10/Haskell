@@ -54,6 +54,5 @@ Once you have GHC installed, you can compile and run Haskell programs from the c
     $ ./hello
     ```
 
-   You should see the output:
-   
+   You should see the output: Hello, world!
 
